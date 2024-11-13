@@ -15,12 +15,12 @@ The purpose of this project is to test coding skills and problem-solving abiliti
     - **Method**: `POST`
     - **Description**: Upload a bank statement.
 
-2. **Get Status**
+2. **Get Account**
     - **Endpoint**: `/account`
     - **Method**: `GET`
     - **Description**: Return the statement account information.
 
-3. **Stop Scraping**
+3. **Get Transactions**
     - **Endpoint**: `/transactions`
     - **Method**: `GET`
     - **Description**: Return the statement transactional information.
