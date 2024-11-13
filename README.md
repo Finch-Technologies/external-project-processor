@@ -1,4 +1,4 @@
-# Scraper Project
+# Bank Statement Processor Project
 
 ## Overview
 
@@ -48,7 +48,7 @@ Implement a small frontend application for file upload and to display the parsed
 1. **Set Up Environment**: Install necessary dependencies and configure the development environment.
 2. **Run API Server**: Start the server to make the API endpoints available.
 3. **Use Endpoints**: Interact with the application through the provided API endpoints.
-4. **Process Batch (Optional)**: Implement the bonus task and build a single page UI for the statement upload.
+4. **UI Upload (Optional)**: Implement the bonus task and build a single page UI for the statement upload.
 
 ## Outcome
 
