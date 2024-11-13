@@ -1,0 +1,22 @@
+{
+    "uuid": "a6a47f19-72bb-4017-b42a-a256746e375a",
+    "message": "Success",
+    "data": [
+        {
+            "uuid":"32",
+            "date":"2020-01-01",
+            "description":"RTC Transfer",
+            "amount":1000.0,
+            "balance":1000.0,
+            "type":"credit"
+        },
+        {
+            "uuid":"33",
+            "date":"2020-01-02",
+            "description":"Deposit",
+            "amount":100.0,
+            "balance":1100.0,
+            "type":"credit"
+        }
+    ]
+}

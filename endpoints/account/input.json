@@ -1,0 +1,8 @@
+{
+    "uri":"/account",
+    "method":"GET",
+    "query":{
+        "uuid":"a6a47f19-72bb-4017-b42a-a256746e375a" // statement uuid
+    },
+    "example":"/account?uuid=a6a47f19-72bb-4017-b42a-a256746e375a"
+}

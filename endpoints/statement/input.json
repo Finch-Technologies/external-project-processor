@@ -1,0 +1,11 @@
+{
+    "uri":"/statement",
+    "method":"POST",
+    "payload":{
+        "statement":"<file>"
+    },
+    "headers":{
+        "Content-Type":"multipart/form-data"
+    },
+    "example":"/statement"
+}

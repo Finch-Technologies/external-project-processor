@@ -1,0 +1,19 @@
+{
+    "uuid": "a6a47f19-72bb-4017-b42a-a256746e375a", // statement uuid
+    "message": "Success",
+    "data": {
+        "name": "John Doe",
+        "address": "123 Main St, Springfield, IL 62701",
+        "account": {
+            "uuid": "a6a47f19-72bb-4017-b42a-a256746e375a", // or any other unique identifier
+            "number": "1234567890",
+            "balance": 1000.0,
+            "opening_balance": 1000.0,
+            "closing_balance": 1000.0,
+            "from_date": "2020-01-01",
+            "to_date": "2020-12-31",
+            "transaction_count": 0,
+            "statement_date": "2020-12-31"
+        }
+    }
+}
