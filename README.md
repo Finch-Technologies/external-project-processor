@@ -6,6 +6,8 @@ This project is a statement parser designed to extract account and transactional
 
 The purpose of this project is to test coding skills and problem-solving abilities. Developers are encouraged to be creative.
 
+*This project will require a database/retention functionality to retrieve the account and transactional information.*
+
 ## API Endpoints
 
 1. **Upload Statement**
@@ -29,6 +31,13 @@ The purpose of this project is to test coding skills and problem-solving abiliti
 
 - **input.json**: Provides a guideline for the API server functionality and commands. Use it as a reference for expected input formats.
 - **output.json**: Serves as a guideline for the expected output from the scraper.
+- **./files**: Contains the pdf files that you can use to build your system.
+
+## Operation
+
+1. Upload one of the files to your server.
+2. Call GET account for the account information.
+3. Call GET transactions for the transactional information.
 
 ## Bonus Task (Optional)
 
